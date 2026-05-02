@@ -37,8 +37,12 @@ The project uses the **NASA C-MAPSS FD001 dataset**.
 
 The dataset contains simulated aircraft engine degradation data. Each engine starts in a healthy condition and gradually degrades until failure.
 
-![Streamlit Prediction Output](<img width="1865" height="875" alt="RUL1" src="https://github.com/user-attachments/assets/a73bc7b5-71ab-4b30-a04b-514cde8e7eed" />
-.png)
+![Streamlit Prediction Output](RUL1.png)
+![Streamlit Prediction Output](RUL2.png)
+![Streamlit Prediction Output](RUL3.png)
+![Streamlit Prediction Output](RUL4.png)
+![Streamlit Prediction Output](RUL5.png)
+
 The dataset includes:
 
 - Engine ID
