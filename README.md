@@ -212,7 +212,7 @@ Failure Risk = 100 - Health %
 
 ## 🚀 Live Demo
 
-🔗 [View Deployed Streamlit App]()
+🔗 [View Deployed Streamlit App](https://mkuswa23kfs6ftvbfnvxwb.streamlit.app/)
 
 ---
 
